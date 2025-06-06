@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "obediantRobot",
+            "request": "launch",
+            "mainClass": "_03_method_writing._1_obedient_robot.obediantRobot",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
+            "name": "forLoopGuantlet",
+            "request": "launch",
+            "mainClass": "_02_nested_loops._3_for_loop_gauntlet.forLoopGuantlet",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "_01_algorithms._2_fibonacci.fibonacci",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
+            "name": "primeOrNot",
+            "request": "launch",
+            "mainClass": "_01_algorithms._1_prime_or_not.primeOrNot",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "_03_method_writing._4_calculator.Calculator"

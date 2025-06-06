@@ -28,6 +28,8 @@ public class IntroToMethods {
 		// Method1
 		method1();
 
+		
+
 		// Method2
 		String output2 = method2();
 		System.out.println(output2);

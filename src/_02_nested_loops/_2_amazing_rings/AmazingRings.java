@@ -5,7 +5,7 @@ import processing.core.PImage;
 
 /*
  * Goal: Create a pair of Amazing Rings!
- * 
+ *
  * 1. Open the demonstration for this recipe by opening the Recipe.html
  *    file in this folder.
  * 
